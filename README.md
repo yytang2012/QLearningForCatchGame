@@ -1,4 +1,5 @@
 # CatchGame - Simple Q-Learning example by TensorFlow
+![TensorFlowPlayCatch](https://github.com/yytang2012/QLearningForCatchGame/blob/master/images/demo.gif)
 
 Simple catch game DQN agent is implemented by TensorFlow
 
