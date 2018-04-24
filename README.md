@@ -9,6 +9,7 @@ Keras code (written by Eder Santanas) : [here](https://gist.github.com/EderSanta
 
 Torch7 code (written by SeanNaren): [here](https://github.com/SeanNaren/TorchQLearningExample)
 
+TensorFlow code written by solaris33: [here](https://github.com/solaris33/CatchGame-QLearningExample-TensorFlow)
 
 ## How to run
 
